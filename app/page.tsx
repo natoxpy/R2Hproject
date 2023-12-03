@@ -1,5 +1,6 @@
-import { redirect } from "next/navigation";
+import { RedirectType, redirect } from "next/navigation";
+import Aboutme from "./aboutme/_page";
 
-export default function Home() {
-  return redirect("/aboutme");
+export default async function Home() {
+  return <Aboutme></Aboutme>;
 }

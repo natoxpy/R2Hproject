@@ -1,3 +1,4 @@
+"use client";
 import {
   Container,
   Text,
@@ -9,7 +10,7 @@ import {
 } from "@mantine/core";
 import AnimateEntry from "../animateEntry";
 
-export default async function Contactme() {
+export default function Contactme() {
   return (
     <>
       <AnimateEntry>
@@ -180,7 +181,7 @@ export default async function Contactme() {
                 styles={{
                   root: {
                     background: "hsl(225, 7%, 15%)",
-                    borderRadius: '10px'
+                    borderRadius: "10px",
                   },
                 }}
               >

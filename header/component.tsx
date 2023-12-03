@@ -14,7 +14,7 @@ const userLinks = [
 ];
 
 const mainLinks = [
-  { link: "/aboutme", label: "About me" },
+  { link: "/", label: "About me" },
   { link: "/college", label: "College" },
   { link: "/r2h", label: "R2H" },
   { link: "/stem", label: "STEM" },

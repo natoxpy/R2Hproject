@@ -1,0 +1,10 @@
+NodeJS
+Typescript
+MantineUI
+NextJS
+SQLite
+Postcss
+Tailwind
+sass
+Framer motion
+MomentJS

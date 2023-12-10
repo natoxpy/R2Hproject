@@ -7,7 +7,6 @@ import "@mantine/notifications/styles.css";
 import { DoubleHeader } from "@/header/component";
 import { FooterSimple } from "../footer/component";
 import { Notifications } from "@mantine/notifications";
-import { headers } from "next/headers";
 
 const inter = Inter({ subsets: ["latin"] });
 

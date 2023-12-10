@@ -1,6 +1,9 @@
 import { motion } from "framer-motion";
 import LoadingCSS from "./loading.module.css";
 
+/**
+ * Loading animation which happens between pages transitions 
+ */
 export default function Loading() {
   return (
     <>

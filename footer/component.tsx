@@ -1,3 +1,4 @@
+// THIS IS NOT MY DODE; DON'T ASK WHAT IT DOES.
 "use client";
 import { Container, Group, Anchor } from "@mantine/core";
 // import { MantineLogo } from "@mantinex/mantine-logo";

@@ -2,6 +2,7 @@ import { GetDatabase, getMessages } from "@/db";
 
 export const dynamic = "force-dynamic"; // defaults to force-static
 
+// Nothing to see here, just your average API endpoint which got scrapped
 export async function GET(req: Request) {
   return Response.json({
     code: 200,

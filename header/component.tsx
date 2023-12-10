@@ -1,6 +1,6 @@
+// THIS IS NOT MY DODE; DON'T ASK WHAT IT DOES.
 "use client";
 
-import { useState } from "react";
 import { Container, Anchor, Group, Burger, Box } from "@mantine/core";
 import { useDisclosure } from "@mantine/hooks";
 import classes from "./style.module.scss";
@@ -8,7 +8,6 @@ import "@mantine/core/styles.css";
 import { usePathname, useRouter } from "next/navigation";
 
 const userLinks = [
-  // { link: "/toxpy", label: "TOXPY" },
   { link: "/stack", label: "Stack" },
   { link: "/formdata", label: "Form data" },
 ];

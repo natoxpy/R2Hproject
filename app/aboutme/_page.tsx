@@ -1,13 +1,17 @@
 "use client";
-import {
-  Container,
-  Text,
-  Flex,
-  Space,
-  Image,
-  Divider,
-  Paper,
-} from "@mantine/core";
+
+/**
+ * This page is getting imported by ../page.ts
+ * 
+ * # WELCOME MY FELLOW DEVELOPER, TO HELL. 
+ * 
+ * yeah I made this thing thinking I wasn't going to have too much
+ * now I can't be bother with factoring everything, 
+ * Especially for a project I will never see again.
+ * Well, just know it works, don't touch anything, 
+ * and good luck navigating this hells. 😊
+ */
+import { Container, Text, Flex, Space, Divider, Paper } from "@mantine/core";
 import AnimateEntry from "../animateEntry";
 
 export default function Contactme() {

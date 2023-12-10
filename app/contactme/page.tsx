@@ -1,3 +1,4 @@
+// Nothing to see here
 import { Container, Text, Flex, Space } from "@mantine/core";
 import { GetInTouchSimple } from "@/contact/component";
 import AnimateEntry from "../animateEntry";

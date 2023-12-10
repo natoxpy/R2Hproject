@@ -1,3 +1,4 @@
+// Idk why I put all the important things here
 "use client";
 
 import { Accordion, Blockquote, Flex, Text } from "@mantine/core";

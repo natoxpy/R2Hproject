@@ -1,3 +1,4 @@
+// This page actually makes sense, somewhat. 
 import { Badge, Flex, Paper, Stack } from "@mantine/core";
 import { College } from "./progress";
 

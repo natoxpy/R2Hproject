@@ -1,3 +1,7 @@
+// YOU ARE IN THE SERVER!
+// this page just gets all the messages 
+// from the server and sends it to the frontend. 
+
 import { Container, Text, Flex, Space } from "@mantine/core";
 import AnimateEntry from "../animateEntry";
 import { TableReviews } from "./table";

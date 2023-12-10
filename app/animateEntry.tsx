@@ -4,6 +4,10 @@ import { ReactNode } from "react";
 import { motion } from "framer-motion";
 import Awaiter from "./awaiter";
 
+/**
+ * Client Component using Framer Motion to animate content in 
+ * when page is loaded
+ */
 export default function Content({ children }: { children: ReactNode }) {
   return (
     <motion.div

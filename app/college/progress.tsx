@@ -1,3 +1,4 @@
+// Nothing to see here, just template code modified for my needs 
 "use client";
 
 import { Timeline, Text } from "@mantine/core";

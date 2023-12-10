@@ -1,16 +1,7 @@
+// YOU ARE ON THE CLIENT;
+// here is where all the messages from the server come.
 "use client";
-import {
-  Table,
-  Progress,
-  Anchor,
-  Text,
-  Group,
-  Box,
-  Button,
-  Flex,
-  Tooltip,
-} from "@mantine/core";
-import classes from "./table.module.css";
+import { Table, Anchor, Text, Box, Flex, Tooltip } from "@mantine/core";
 import moment from "moment";
 
 type MessageType = {

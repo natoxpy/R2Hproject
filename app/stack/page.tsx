@@ -1,3 +1,4 @@
+// Just the stack, overall nothing to see here.
 "use client";
 import {
   Container,
